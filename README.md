@@ -5,20 +5,23 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+npm install @tensorflow/tfjs
 ```
 
-### Compiles and minifies for production
+```
+npm i @tensorflow-models/coco-ssd
+
+```
+```
+npm install -g @vue/cli
+```
+```
+vue create name_project
+```
 ```
 npm run build
 ```
-
-### Lints and fixes files
 ```
-npm run lint
+npm run serve
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
